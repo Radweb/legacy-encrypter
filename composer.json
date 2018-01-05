@@ -14,7 +14,6 @@
         }
     ],
     "require": {
-        "php": ">=5.5.9|^7",
         "ext-mbstring": "*",
         "ext-openssl": "*",
         "illuminate/contracts": ">=5.2",
